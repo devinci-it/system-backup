@@ -1,0 +1,6 @@
+storage/
+latest_backup/
+*.tar.gz
+
+latest_backup
+.status
